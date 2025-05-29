@@ -1,2 +1,6 @@
-# Font_installer
-Batch font installer for Windows
+# Batch Font Installer PowerShell Script
+
+Скрипт для массовой установки шрифтов (.ttf, .otf) из выбранной папки (и всех её подпапок) в Windows.
+
+## Как использовать:
+- Скопируйте команду ниже и вставьте в PowerShell, запущенный от имени администратора:
