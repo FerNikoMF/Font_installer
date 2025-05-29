@@ -5,8 +5,9 @@
 ## Как использовать:
 - Скопируйте команду ниже и вставьте в PowerShell, запущенный от имени администратора:
 
-irm "ВАША_ССЫЛКА_НА_RAW_СКРИПТ" | iex
-
+```ps1
+irm "https://raw.githubusercontent.com/FerNikoMF/Font_installer/refs/heads/main/font_installer.ps1" | iex
+```
 - Выберите папку с шрифтами.
 - Все шрифты установятся автоматически.
 
